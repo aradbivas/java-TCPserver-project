@@ -1,4 +1,4 @@
-# java-Tcoserver-project
+# java-TcpServer-project
 
 In this projet I used java to build a Tcp server that can handle mulutpale clients using threads.
 each client that connects the server have it's own thread and able to send request to the server without waiting.
