@@ -2,7 +2,8 @@ java-Tcpserver-project
 
 In this project I used java to build a Tcp server that can handle multiple clients using threads. each client that connects the server have it's own thread and able to send request to the server without waiting.
 
-the server is capable to prefrom the following tasks: 1.Create a new random Matrix by the number of rows and columns that the clients passes.
+the server is capable to prefrom the following tasks: 
+1.Create a new random Matrix by the number of rows and columns that the clients passes.
 
 2.Create a new random weighed Matrix, the clients passes the number of rows, columns and the max weight the matrix will have.
 
